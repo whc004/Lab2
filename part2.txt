@@ -7,7 +7,7 @@ Passcode for question 5: SvelteBeatsReact
 Passcode for question 6: ThisIsJS
 Passcode for question 7: YouFoundMe
 Passcode for question 8: coolcoolcool
-Passcode for question 9: JavaScriptRules
+Passcode for question 9: 2020sucked
 Passcode for question 10: listenToTheBlackKeys
 Passcode for question 11: a11yComesFirst
 Passcode for question 12: iLoveWebDev
